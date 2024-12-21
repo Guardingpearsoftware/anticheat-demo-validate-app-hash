@@ -1,6 +1,6 @@
 # Android Application Hash Validation - Example Implementation
 
-This repository provides a `Next.js` server-side implementation example of app hash validation, combining client-side integrity checks with a server-side hash verification mechanism. The system is designed to detect tampering of Android application packages (APK/AAB) and ensure the integrity of your app using AntiCheat's hash monitoring and validation framework.
+This repository provides a **Next.js** server-side implementation example of app hash validation, combining client-side integrity checks with a server-side hash verification mechanism. The system is designed to detect tampering of Android application packages (APK/AAB) and ensure the integrity of your app using AntiCheat's hash monitoring and validation framework.
 
 More Infos: 
 - [AntiCheat Documentation](https://docs.guardingpearsoftware.com)
