@@ -178,4 +178,4 @@ Deploy the backend using services like **Vercel**, **AWS**, etc. For example, to
 
 3. Configure your deployment to use environment variables for sensitive data, such as API keys or security configurations.
 
-[Vercel Website] (https://vercel.com/)
+[Vercel Website](https://vercel.com/)
